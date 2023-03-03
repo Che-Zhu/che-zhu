@@ -3,7 +3,7 @@
 ### I'm Che, a front-end developer
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css,vercel,vscode,git,md,figma,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css,py,pytorch,vercel,vscode,git,md,figma,unity)](https://skillicons.dev)
 
 <!--
 **Che-Zhu/che-zhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
