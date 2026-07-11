@@ -1,21 +1,42 @@
 # Che Zhu
 
-Software Engineer contributing to AI-native developer platforms and cloud infrastructure.
+Software Engineer building AI-native developer platforms and cloud infrastructure.
 
 I work across AI agents, developer tooling, cloud infrastructure, and full-stack product engineering.
 
 ## Selected Contributions
 
-- [Fulling](https://github.com/FullAgent/fulling) — Contributed to GitHub integrations, asynchronous task workflows, sandbox runtime, database lifecycle, and deployment flows.
-- [Codex Gateway](https://github.com/labring/codex-gateway) — Contributed to the Rust gateway runtime, session handling, turn interruption, Devbox runtime, logging, and CI.
-- [Sealos Brain](https://github.com/labring/brain) — Contributed to Skills workflows, database handling, template caching, quota UI, and Kubernetes-backed product flows.
-- [ShipRepo](https://github.com/labring/ShipRepo) — Contributed to stateless deployment APIs, GitHub OAuth, kubeconfig bootstrap, and AI proxy provisioning.
-- [Sealos](https://github.com/labring/sealos) — Contributed to desktop, database-provider, and app-launchpad workflows.
+- [Fulling](https://github.com/FullAgent/fulling) — **Lead maintainer**
+  Led the evolution from FullstackAgent into an AI-native developer platform,
+  spanning product UX and design systems, GitHub App authentication and
+  repository import, asynchronous project-task orchestration, project and
+  database lifecycle, persistent Kubernetes runtimes, Claude/Gemini/Codex CLI
+  environments, deployment workflows, CI/release infrastructure, and platform
+  architecture.
 
-## Original Projects
+- [Codex Gateway](https://github.com/labring/codex-gateway) — **Core contributor**
+  Contributed to the Rust gateway runtime, session and turn lifecycle, embedded
+  Brain deployments, Devbox runtime, logging, and CI.
 
-- [brain-skills-benchmark](https://github.com/Che-Zhu/brain-skills-benchmark) — An end-to-end benchmark for Devbox, Codex Gateway, Sandbox, and AI skill workflows.
-- [brain-sandbox-skills](https://github.com/Che-Zhu/brain-sandbox-skills) — Sandbox deployment skills covering BuildKit, GHCR, and Crossplane workflows.
+- [ShipRepo](https://github.com/labring/ShipRepo) — **Core contributor**
+  Contributed to stateless deployment APIs, GitHub OAuth, kubeconfig bootstrap,
+  and AIProxy provisioning.
+
+- [Sealos Brain](https://github.com/labring/brain) — **Contributor**
+  Contributed to database lifecycle and DSN handling, template caching and
+  provider labels, quota flows, Skills, and Kubernetes-backed product features.
+
+- [Sealos](https://github.com/labring/sealos) — **Contributor**
+  Contributed to Desktop and Brain window behavior, database-provider APIs and
+  documentation, and App Launchpad localization.
+
+## Owned Projects
+
+- [brain-skills-benchmark](https://github.com/Che-Zhu/brain-skills-benchmark) — **Owner**
+  An end-to-end benchmark for Devbox, Codex Gateway, Sandbox, and AI skill workflows.
+
+- [brain-sandbox-skills](https://github.com/Che-Zhu/brain-sandbox-skills) — **Owner**
+  Sandbox deployment skills covering BuildKit, GHCR, and Crossplane workflows.
 
 ## Focus
 
