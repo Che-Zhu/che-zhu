@@ -19,7 +19,7 @@ I work across AI agents, developer tooling, cloud infrastructure, and full-stack
     <td align="center"><strong>2,425</strong><br /><sub>Fulling stars</sub></td>
     <td align="center"><strong>151</strong><br /><sub>Merged PRs</sub></td>
     <td align="center"><strong>163</strong><br /><sub>Pull Requests</sub></td>
-    <td align="center"><strong>405</strong><br /><sub>Commits</sub></td>
+    <td align="center"><strong>408</strong><br /><sub>Commits</sub></td>
     <td align="center"><strong>19</strong><br /><sub>Contributed projects</sub></td>
   </tr>
 </table>
