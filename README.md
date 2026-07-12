@@ -4,6 +4,31 @@ Software Engineer building AI-native developer platforms and cloud infrastructur
 
 I work across AI agents, developer tooling, cloud infrastructure, and full-stack product engineering.
 
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/FullAgent/fulling">
+    <strong>Fulling</strong><br />
+    <sub>Lead maintainer · project reach</sub>
+  </a>
+</p>
+
+<!-- ACTIVITY:START -->
+<table align="center">
+  <tr>
+    <td align="center"><strong>2,425</strong><br /><sub>Fulling stars</sub></td>
+    <td align="center"><strong>183</strong><br /><sub>Merged PRs</sub></td>
+    <td align="center"><strong>195</strong><br /><sub>Pull Requests</sub></td>
+    <td align="center"><strong>760</strong><br /><sub>Commits</sub></td>
+    <td align="center"><strong>29</strong><br /><sub>Contributed projects</sub></td>
+  </tr>
+</table>
+<!-- ACTIVITY:END -->
+
+<p align="center">
+  <sub>Updated automatically from GitHub.</sub>
+</p>
+
 ## Selected Contributions
 
 - [Fulling](https://github.com/FullAgent/fulling) — **Lead maintainer**
